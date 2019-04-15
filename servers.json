@@ -164,13 +164,6 @@
     },
     {
     
-        "name": "SteinerCraft",
-        "ip": "steinercraft.net",
-        "type": "PC",
-        "category": "swedish"
-    },
-    {
-    
         "name": "TiaMC",
         "ip": "tiamc.net",
         "type": "PC",
@@ -201,13 +194,6 @@
     
         "name": "FlyNetWork",
         "ip": "flynetwork.mcserv.pro",
-        "type": "PC",
-        "category": "swedish"
-    },
-    {
-    
-        "name": "Menoxia",
-        "ip": "play.menoxia.net",
         "type": "PC",
         "category": "swedish"
     },
@@ -256,6 +242,24 @@
     {
         "name": "NeztoNetwork",
         "ip": "NeztoNetwork.com",
+        "type": "PC",
+        "category": "swedish"
+    },
+	{
+        "name": "MuCraft",
+        "ip": "spela.mucraft.se",
+        "type": "PC",
+        "category": "swedish"
+    },
+	{
+        "name": "YellowHouse",
+        "ip": "YellowHouse.serv.nu",
+        "type": "PC",
+        "category": "swedish"
+    },
+	{
+        "name": "PixelMC",
+        "ip": "spela.pixelmc.se",
         "type": "PC",
         "category": "swedish"
     }
