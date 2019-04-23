@@ -1,11 +1,5 @@
 [
     {
-        "name": "Lestro Network",
-        "ip": "lestronetwork.net",
-        "type": "PC",
-        "category": "swedish"
-    },
-    {
         "name": "90gQopen",
         "ip": "open.90gq.se",
         "type": "PC",
@@ -30,7 +24,7 @@
         "category": "swedish"
     },
     {
-        "name": "Mincity",
+        "name": "MineCity",
         "ip": "minecity.se",
         "type": "PC",
         "category": "swedish"
@@ -260,6 +254,43 @@
 	{
         "name": "PixelMC",
         "ip": "spela.pixelmc.se",
+        "type": "PC",
+        "category": "swedish"
+    },
+    {
+        "name": "HalanMC",
+        "ip": "halanmc.serv.nu",
+        "type": "PC",
+        "category": "swedish"
+    },
+    {
+    
+        "name": "HypeCraft",
+        "ip": "hypecraft.mygs.co",
+        "type": "PC",
+        "category": "swedish"
+    },
+    {
+        "name": "GameOnline",
+        "ip": "mc.gameonline.nu",
+        "type": "PC",
+        "category": "swedish"
+    },
+    {
+        "name": "SwingCraft",
+        "ip": "mc.swingcraft.se",
+        "type": "PC",
+        "category": "swedish"
+    },
+    {
+        "name": "MCHeroes",
+        "ip": "mcheroes.tk",
+        "type": "PC",
+        "category": "swedish"
+    },
+    {
+        "name": "CCWorld",
+        "ip": "ccw.tilly.se",
         "type": "PC",
         "category": "swedish"
     }
